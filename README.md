@@ -1,2 +1,1 @@
-# ivanruiz
-Personal GitHub page of Ivan Ruiz Marcos
+# **Iván Ruiz Marcos's personal GitHub page**
